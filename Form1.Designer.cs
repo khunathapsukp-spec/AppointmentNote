@@ -151,7 +151,7 @@
             button3.Name = "button3";
             button3.Size = new Size(93, 51);
             button3.TabIndex = 12;
-            button3.Text = "Add";
+            button3.Text = "Exit";
             button3.UseVisualStyleBackColor = true;
             button3.Click += OnAddClick;
             // 
